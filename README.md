@@ -1,4 +1,4 @@
 # annabezkrovnaya
-private repository\n
-complete task to create a simple HTML site\n
-waiting for check\n
+private repository ***
+complete task to create a simple HTML site ***
+waiting for check
